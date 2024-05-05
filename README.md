@@ -17,8 +17,8 @@ I am passionate about large language models. I create solutions that are scalabl
 
 Apart from my regular work I do following stuffs on side:
 - I started Twitter community "[AI research papers](https://twitter.com/i/communities/1688916477758566785)", where researchers share interesting reads
-- I run a [daily newspaper](https://substack.com/@airesearchpapers) where I share list of research papers published in top journals
-- Actively post on LinkedIn and Twitter about my findings
+- I run a [daily newspaper - Language Model Digest](https://llm.beehiiv.com/subscribe) where I share a categorization and summary of LLMs-related research papers published on a daily basis
+- Actively posts on LinkedIn and Twitter about my findings
 
 
 ### 📫 Contact
