@@ -1,28 +1,34 @@
+<h1 align="center">Hi 👋, I'm Dip Patel</h1>
+<h3 align="center">A passionate Data Scientist & LLMs researcher from 🇨🇦</h3>
 
-<img align="right" src="https://pbs.twimg.com/profile_images/1563379454990172163/f6IKWlzE_400x400.jpg" width=30% height=30% style="border-radius: 50%;"/>
+- 🔭 I’m currently working on [LLMs Research newsletter](https://www.llmsresearch.com)
 
-### Hey, I'm Dipkumar 👋
+- 🌱 I’m currently learning **Large language models (LLMs), Transformers, Generative AI**
 
-Sr. Data Scientist & LLM enthusiast
-> Building LLMs to improve **BOI**
+- 📝 I regularly write articles on [https://www.llmsresearch.com](https://www.llmsresearch.com)
 
-I am passionate about large language models. I create solutions that are scalable and useful to open source community
+- 💬 Ask me about **LLMs, Gen AI, NLP research advancement**
 
-### 💼 Experience
-> Sr. Data Scientist at Sanofi (Toronto, Canada) from July'22 to present <br>
-> Machine Learning Engineer @ ReiPower (Oshawa, Canada) from Dec'21 to June'22 <br>
-> Sr. Technical consultant @ Streebo (India) from July'18 to Nov'19 <br>
-> Sr. software engineer @Infosys (India) from July'15 to July'18
-### 🌟 What I do
+- 📫 How to reach me **dippatel1994@gmail.com**
 
-Apart from my regular work I do following stuffs on side:
-- I started Twitter community "[AI research papers](https://twitter.com/i/communities/1688916477758566785)", where researchers share interesting reads
-- I run a [daily newspaper - Language Model Digest](https://llm.beehiiv.com/subscribe) where I share a categorization and summary of LLMs-related research papers published on a daily basis
-- Actively posts on LinkedIn and Twitter about my findings
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+### Connect with me
+<p align="left">
+<a href="https://twitter.com/dippatel1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dippatel1994" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dippatel1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dippatel1994" height="30" width="40" /></a>
+<a href="https://kaggle.com/dipkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dipkumar" height="30" width="40" /></a>
+<a href="https://medium.com/@dippatel1994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dippatel1994" height="30" width="40" /></a>
+<a href="/https://rss.beehiiv.com/feeds/apn7agm48k.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.beehiiv.com/feeds/apn7agm48k.xml" height="30" width="40" /></a>
+</p>
 
-### 📫 Contact
+### Languages and Tools
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-> These are all direct links to my profiles, feel free to reach out!
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dippatel1994&show_icons=true&locale=en&layout=compact" alt="dippatel1994" /></p>
 
-&nbsp;&nbsp;[![email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dippatel1994@gmail.com?subject=I%20found%20you%20via%20GitHub%20profile%20page&body=Hi%20Dip%2C%0A%0A%0A) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dippatel1994/) &nbsp; [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/dippatel1994) &nbsp;
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dippatel1994&show_icons=true&locale=en" alt="dippatel1994" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dippatel1994&" alt="dippatel1994" /></p>
