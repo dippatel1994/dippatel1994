@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://medium.com/feed/@dippatel1994, https://rss.beehiiv.com/feeds/apn7agm48k.xml"
+                feed_list: "https://medium.com/feed/@dippatel1994, https://rss.beehiiv.com/feeds/Apn7agm48K.xml"
